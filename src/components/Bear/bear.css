@@ -1,0 +1,114 @@
+.banner2 {
+  width: 103%;
+  margin-top: -8px;
+  margin-left: -8px;
+  margin-right: auto;
+}
+.box {
+  height: 465px;
+  width: 98%;
+  margin: auto;
+  border: 3px solid #262F36;
+  border-radius: 7px;
+  margin-top: -4px;
+  background-color: #FFFFFF;
+}
+
+.smallBox {
+  height: 85px;
+  width: 98%;
+  margin: auto;
+  border: 3px solid #262F36;
+  border-radius: 7px;
+  margin-top: -16px;
+  background-color: #FFFFFF;
+}
+
+.connector {
+  width: 2.5%;
+  position:relative;
+  margin-top:-11px;
+  margin-left: 22px;
+}
+
+.connector2 {
+  width: 2.5%;
+  float:right;
+  margin-top:-11px;
+  margin-right: 22px;
+}
+.box p.distance {
+  color:#79818D;
+  font-weight: 100;
+}
+.box p.tries {
+  color:#79818D;
+  opacity: 0.6;
+  text-align: center;
+  font-size:12px;
+  font-family: sans-serif;
+}
+.box p {
+  color: #262F36;
+  font-size:14px;
+  margin-top:-2px;
+  font-family: sans-serif;
+  font-weight: 500;
+}
+
+.box p.distance {
+  color: #79818D;
+  font-size:13px;
+  margin-top:-15px;
+  font-family: sans-serif;
+}
+
+.smallBox p {
+  text-align:left;
+  color: #79818D;
+  font-size:14px;
+  padding-top: 5px;
+  padding-left:12px;
+  padding-right: 12px;
+  font-family: sans-serif;
+}
+
+.smallBox span.link {
+  color: #6087FF
+}
+
+.refresh {
+  width: 130px;
+  margin:auto;
+}
+td *{
+  display:inline-inline-grid;
+}
+
+h4 {
+  text-align:center;
+  margin-top:-40px;
+  color: #262F36;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+.users{
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-top:15px;
+  width: 96%;
+}
+.userimg {
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+}
+
+/*.user {
+  border-radius: 50%;
+  background-image: url('../../images/source/person.jpg');
+  background-size:100%;
+  background-repeat: no-repeat;
+  width: 68px;
+  height: 68px;
+}*/
